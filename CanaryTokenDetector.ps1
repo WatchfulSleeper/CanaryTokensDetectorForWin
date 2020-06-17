@@ -1,6 +1,6 @@
 ﻿#
 # Name: CanaryTokenDetector.ps1
-# Author: Swarley
+# Author: WatchfulSleeper
 #
 Add-Type -AssemblyName PresentationFramework
 Add-Type -AssemblyName System.Windows.Forms
